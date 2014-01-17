@@ -1,6 +1,6 @@
 *  todo：由于基础有限，课程冲突，本次delay掉了，争取下次跟进！！！！
 
-·
+··
   When Can Machines Learn? [何時可以使用機器學習]
   第一週(11/26~12/2): 
   第一講：The Learning Problem [機器學習問題] 
@@ -33,4 +33,4 @@
   作業三到期，作業四公佈(1/14~1/28) 
   十五講：Validation [自我檢測] 
   十六講：Three Learning Principles [三個機器學習的重要原則]
-  ·
+  ··
