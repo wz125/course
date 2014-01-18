@@ -1,3 +1,4 @@
 
 ## write by retext
-xx
+
+* `thinkagain-003`   Think Again: How to Reason and Argue0
